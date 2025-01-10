@@ -1,10 +1,10 @@
 # main links
 main:
   - title: "Our Model"
-    url: /model.html
+    url: /model/
   - title: "Our Brand"
-    url: /brand.html
+    url: /brand/
   - title: "Our Story"
-    url: /story.html
+    url: /story/
   - title: "Introduction Video"
     url: /video.mp4
