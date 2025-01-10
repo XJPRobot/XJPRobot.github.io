@@ -28,4 +28,4 @@ Through a free-moving small AI robot and cell phone APP as a carrier, with fluff
 3. Able to give health suggestions for users
 4. Empowered by AI
 #### Disadvantages
-1. Under Development
+Under Development
