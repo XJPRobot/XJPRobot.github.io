@@ -8,3 +8,5 @@ main:
     url: /story/
   - title: "Introduction Video"
     url: /video.mp4
+  - title: "Donations"
+    url: /donation/
