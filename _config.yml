@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "air"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "XJP LifeCompanion AI"
+title                    : "X-Joyous Partner LifeCompanion AI"
 title_separator          : "|"
 subtitle                 : "An AI based intelligent health companion pet robot"
 name                     : "Your Name"
