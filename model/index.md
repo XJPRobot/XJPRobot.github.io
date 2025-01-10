@@ -18,8 +18,10 @@ Through a free-moving small AI robot and cell phone APP as a carrier, with fluff
 4. Health Suggestions
 5. AI hardware
 
+![Model2](2.png)
 
-###Advantages and Disadvantages:
+
+### Advantages and Disadvantages:
 #### Advantages
 1. Ability to sympathize with users
 2. Progressive learning helps to enhance emotions with users
