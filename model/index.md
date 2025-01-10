@@ -23,9 +23,12 @@ Through a free-moving small AI robot and cell phone APP as a carrier, with fluff
 
 ### Advantages and Disadvantages:
 #### Advantages
+
 1. Ability to sympathize with users
 2. Progressive learning helps to enhance emotions with users
 3. Able to give health suggestions for users
 4. Empowered by AI
+
 #### Disadvantages
+
 Under Development
