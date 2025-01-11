@@ -7,6 +7,6 @@ main:
   - title: "Our Story"
     url: /story/
   - title: "Introduction Video"
-    url: /video.mp4
+    url: /video/
   - title: "Donations"
     url: /donation/
